@@ -1,6 +1,6 @@
 # SAP-Ariba-Auction-System-Analysis
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/e9e74350-c054-4f55-8934-1f33cec20272" alt="Visual Assets" width="300">
+  <img src="diagrams/DOS.jpg" alt="DOS" width="300">
 </div>
 
 ## Overview
