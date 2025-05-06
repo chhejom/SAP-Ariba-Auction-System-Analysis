@@ -1,4 +1,7 @@
 # SAP-Ariba-Auction-System-Analysis
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e9e74350-c054-4f55-8934-1f33cec20272" alt="Visual Assets" width="300">
+</div>
 
 ## Overview
 This system analysis project was completed during my internship at the United Nations, focused on improving the process of conducting English Reverse Auctions through the SAP Ariba platform.
