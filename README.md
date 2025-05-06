@@ -1,4 +1,5 @@
-# SAP-Ariba-Auction-System-Analysis
+## System Analysis of English Reverse Auctions in SAP Ariba
+
 <div align="center">
   <img src="diagrams/DOS.jpg" alt="DOS" width="300">
 </div>
