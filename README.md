@@ -43,11 +43,4 @@ The outcome is a comprehensive guideline to help UN procurement teams conduct st
 - Increased transparency and efficiency in reverse auction workflows
 - Practical framework for training new UN buyers or procurement staff on Ariba auctions
   
-## Repository Contents
-| Folder / File                          | Description                                                                     |
-| -------------------------------------- | ------------------------------------------------------------------------------- |
-| `/docs/English Reverse Auction.pptx`   | Recommended platform settings for event setup and closure in SAP Ariba          |
-| `/docs/Bidders Registration Guide.pdf` | Step-by-step guide for suppliers to register and accept auction terms           |
-| `/docs/Use Case Scenario.docx`         | Simulated auction flow including timing, bidding behavior, and overtime trigger |
-| `/diagrams/Auction Task.png`           | Visual flowchart of key auction tasks and stakeholder responsibilities          |
-| `README.md`                            | Project overview, insights, deliverables, and documentation                     |
+
